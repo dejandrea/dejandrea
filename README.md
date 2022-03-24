@@ -1,4 +1,8 @@
-## Oi! Eu sou a Andréa J S França.
+## Oi, eu sou a Andréa J S França.
+#### Sou Formada em Análise e Desenvolvimento de Sistemas.
+#### Ensino crianças e adolescentes a programar através da construção de Jogos 2D
+
+##
 
 - 🔭 Instrutora de programação | Desenvolvedora Full-Stack
 - 🌱 Estou estudando JavaScript, HTML5, CSS3, React.js, React Native,Typescript, Node.js e Python.
