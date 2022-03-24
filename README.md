@@ -1,6 +1,6 @@
 ## Oi! Eu sou a Andréa J S França.
 
-- 🔭 Atualmente eu trabalho como Professora de Programação na BYJU's Future School.
+- 🔭 Instrutora de programação | Desenvolvedora Full-Stack
 - 🌱 Estou estudando JavaScript, HTML5, CSS3, React.js, React Native,Typescript, Node.js e Python.
 - 🤔 Eu também quero aprender Java, C# e outras tecnologias.
 - 😄 Pronomes: ela/Dela.
