@@ -36,11 +36,7 @@
     <a href="https://web.dio.me/users/dejandrea?tab=achievements" target="_blank"><img src="https://img.icons8.com/fluency-systems-filled/48/000000/speech-bubble.png" target="_blank"></a> 
 </div>
   
-##
-  
-  <div>
-    ![Snake animation](https://github.com/dejandrea/dejandrea/blob/output/github-contribution-grid-snake.svg)
-  </div>
+![Snake animation](https://github.com/dejandrea/dejandrea/blob/output/github-contribution-grid-snake.svg)
   
   
 <!-- - 🔭 I’m currently working 
