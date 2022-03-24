@@ -1,6 +1,6 @@
 ## Oi, eu sou a Andréa J S França.
 #### Sou Formada em Análise e Desenvolvimento de Sistemas.
-#### Ensino crianças e adolescentes a programar através da construção de Jogos 2D
+#### Ensino crianças e adolescentes a programar através da construção de Jogos 2D.
 
 ##
 
