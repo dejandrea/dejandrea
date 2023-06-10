@@ -15,8 +15,8 @@
 
 <div align="center">
   <a href="https://github.com/dejandrea">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dejandrea&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejandrea&layout=compact&langs_count=8&theme=radical"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=dejandrea&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejandrea&layout=compact&langs_count=8&theme=radical"/>
 </div>
   
 ##
