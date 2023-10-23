@@ -2,9 +2,9 @@
 
 ## Sobre mim:
 
-- 🔭 Instrutora de programação | Me especializando em Dev Full-Stack
+- 🔭 Instrutora de programação
 - ⚡ Tecnologias: JavaScript, HTML5, CSS3, React.js, React Native e Python
-- 🌱 Estou estudando: JavaScript, React.js, React Native, Angular, TypeScript, Node.js, SQL, NoSQL e Python.
+- 🌱 Estou estudando: Análise de Dados, Machine Learning e Inteligência Artificial.
 - 🤔 Eu também quero aprender Java, C# e outras tecnologias.
 - 😄 Pronomes: ela/Dela.
 - 💬 Sobre mim 2: Gosto de aprender e conhecer coisas novas. Amo praticidade.
