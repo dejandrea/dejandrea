@@ -35,12 +35,7 @@
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
   
- ##
-  
-  <div style="display:block" aligne: "top">
-<img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_TBuBQgFt.png">
-</div>
-  
+ ##  
   <div> 
     <h2>Minhas Redes:</h2>
   <a href="https://instagram.com/deajsfranca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
