@@ -4,7 +4,7 @@
 
 - 🔭 Instrutora de programação
 - ⚡ Tecnologias: JavaScript, HTML5, CSS3, React.js, React Native e Python
-- 🌱 Estou estudando: Análise de Dados, Machine Learning e Inteligência Artificial.
+- 🌱 Estou estudando: UI/UX, React Native, React.
 - 😄 Pronomes: ela/Dela.
 - 💬 Sobre mim 2: Gosto de aprender e conhecer coisas novas. Amo praticidade.
 - ⚡ Curiosidade: Ensino crianças e adolescentes a programar através da construção de Jogos 2D.
