@@ -1,13 +1,13 @@
-## Oi, Prazer! Eu sou a Andréa.
+## Oi, Prazer! Eu sou a 👩‍💻 Andrea França — Desenvolvedora & Instrutora
 
 ## Sobre mim:
 
-- 🔭 Instrutora de programação
+- 🔭 Sou desenvolvedora front‑end e professora de programação. Trabalho com projetos para pequenos negócios e dou aulas e mentorias para crianças e adolescentes.
 - ⚡ Tecnologias: JavaScript, HTML5, CSS3, React.js, React Native e Python
 - 🌱 Estou estudando: UI/UX, React Native, React.
 - 😄 Pronomes: ela/Dela.
 - 💬 Sobre mim 2: Gosto de aprender e conhecer coisas novas. Amo praticidade.
-- ⚡ Curiosidade: Ensino crianças e adolescentes a programar através da construção de Jogos 2D.
+- ⚡ Curiosidade: Ensino crianças e adolescentes a programar através da construção de Jogos e Desenvolvimento WEB.
 - 😉 Frase: "Escolha um trabalho que você ame e não terá que trabalhar nenhum único dia de sua vida." - Confúcio
 
 ##
@@ -31,7 +31,6 @@
   <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
-  
 <!--   <img align="center" alt="angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> -->
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <!--   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> -->
