@@ -36,8 +36,17 @@
 <!--   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> -->
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+
   
- ##  
+ ##
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dejandrea/dejandrea/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/dejandrea/dejandrea/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/dejandrea/dejandrea/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
+ ##
   <div> 
     <h2>Minhas Redes:</h2>
   <a href="https://instagram.com/deajsfranca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -45,6 +54,8 @@
   <a href="https://www.linkedin.com/in/andrea-de-j-s-frança-35866272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://expo.dev/accounts/andreajsf/snacks" target="_blank"><img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" target="_blank"></a> 
 </div>
+
+
 
   
   
