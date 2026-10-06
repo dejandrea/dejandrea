@@ -23,6 +23,8 @@ O projeto nasceu de uma necessidade real da minha atuação como professora e me
 
 🔗 [Ver repositório](https://github.com/dejandrea/plataforma-ensino)
 
+🌐 [Ver aplicação](https://plataforma-ensino-9j5b4s6cq-andrea-francas-projects.vercel.app)
+
 ---
 
 ### 📊 Sistema de Gestão para Pequenos Negócios
@@ -36,7 +38,7 @@ O sistema possui recursos para gerenciamento de clientes, contas, mesas e comand
 
 🔗 [Ver repositório](https://github.com/dejandrea/AppNinjaDistribuidora)
 
-🌐 [Ver aplicação](https://app-ninja-distribuidora.vercel.app)
+<!-- 🌐 [Ver aplicação](https://app-ninja-distribuidora.vercel.app) -->
 
 ---
 
