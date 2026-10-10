@@ -1,55 +1,51 @@
 # Olá! Eu sou Andrea França 👋
 
-### Desenvolvedora de Software | React • TypeScript • JavaScript • Python • Node.js
+### Desenvolvedora Full Stack | React • TypeScript • Node.js • Python | IA Aplicada
 
-Sou Desenvolvedora de Software, graduada em **Análise e Desenvolvimento de Sistemas** e técnica em **Tecnologia da Informação**, com experiência em desenvolvimento web, suporte técnico, ensino de programação e desenvolvimento de projetos para necessidades reais.
+Sou Desenvolvedora de Software, graduada em **Análise e Desenvolvimento de Sistemas** e técnica em **Tecnologia da Informação**, com trajetória profissional que reúne desenvolvimento de software, suporte e implantação de sistemas e ensino de programação.
 
-Atualmente desenvolvo aplicações utilizando principalmente **React, TypeScript, JavaScript, Node.js, Python, Supabase e PostgreSQL**, trabalhando com interfaces, APIs, autenticação, bancos de dados, regras de negócio e integrações.
+Atualmente desenvolvo aplicações Full Stack utilizando principalmente **React, TypeScript, JavaScript, Node.js, Python, Supabase e PostgreSQL**, trabalhando com interfaces, APIs REST, autenticação, bancos de dados, regras de negócio, integrações e deploy.
 
-Minha experiência como professora e mentora de programação também contribuiu para habilidades que levo para o desenvolvimento de software, como resolução de problemas, debugging, documentação, comunicação técnica e aprendizado contínuo.
+Também venho direcionando meus estudos para **Engenharia de IA Aplicada**, explorando integração de modelos de Inteligência Artificial a aplicações reais. Um dos meus projetos atuais já utiliza a **API da OpenAI**, integrada ao back-end por meio de Supabase Edge Functions para geração estruturada de feedbacks acadêmicos.
+
+Minha experiência com suporte técnico e ensino de programação complementa meu perfil de desenvolvimento com habilidades em **resolução de problemas, debugging, documentação, comunicação técnica e aprendizado contínuo**.
 
 ---
 
 ## 🚀 Projetos em destaque
 
-### 🎓 Plataforma de Gestão de Aulas Online
+### 🎓 Plataforma de Gestão de Aulas + IA
 
-Plataforma Full Stack autoral criada para centralizar o gerenciamento de aulas online, alunos, professores, agendamentos, avaliações e acompanhamento acadêmico.
+Plataforma Full Stack autoral criada a partir de uma necessidade real da minha atuação como professora de programação.
 
-O projeto nasceu de uma necessidade real da minha atuação como professora e mentora e está sendo desenvolvido inicialmente para uso próprio, com potencial de evolução para produto.
+Centraliza gerenciamento de alunos, professores, aulas, agendamentos, avaliações e acompanhamento acadêmico, com autenticação, controle de acesso, integração com Google Calendar e geração de feedbacks utilizando Inteligência Artificial.
+
+A integração com a **OpenAI API** é processada por **Supabase Edge Functions**, mantendo credenciais fora do front-end. Os feedbacks são retornados de forma estruturada e integrados ao fluxo de avaliações da plataforma.
 
 **Tecnologias:**  
-`React` `TypeScript` `Supabase` `PostgreSQL` `React Router` `Tailwind CSS` `Vite`
+`React` `TypeScript` `Supabase` `PostgreSQL` `Edge Functions` `OpenAI API` `Tailwind CSS` `Vercel`
 
 🔗 [Ver repositório](https://github.com/dejandrea/plataforma-ensino)
 
-🌐 [Ver aplicação](https://plataforma-ensino-9j5b4s6cq-andrea-francas-projects.vercel.app)
-
+🌐 [Ver aplicação](https://plataforma-ensino-git-main-andrea-francas-projects.vercel.app/)
 ---
 
-### 📊 Sistema de Gestão para Pequenos Negócios
+### 📦 ZigGest — Sistema de Gestão para Distribuidora
 
-Aplicação Full Stack desenvolvida para atender necessidades reais de gestão de pequenos negócios.
+Sistema Full Stack desenvolvido a partir de uma necessidade real de uma distribuidora, com foco na organização e digitalização de processos do negócio.
 
-O sistema possui recursos para gerenciamento de clientes, contas, mesas e comandas e está em constante evolução.
+O projeto envolve regras de negócio, gerenciamento de clientes, contas a receber, operações de venda e outros recursos administrativos, evoluindo conforme as necessidades identificadas durante o desenvolvimento.
+
+A primeira versão foi construída com **React, Node.js, Express e MongoDB**. Atualmente, o sistema passa por uma evolução arquitetural, com uma nova versão utilizando **PostgreSQL e Supabase**.
+
+O projeto tem sido uma oportunidade de trabalhar de ponta a ponta com levantamento de necessidades, modelagem de dados, desenvolvimento de interfaces, APIs, regras de negócio, persistência de dados, debugging e deploy.
 
 **Tecnologias:**  
-`React` `JavaScript` `Node.js` `Express` `MongoDB` `REST API`
+`React` `JavaScript` `Node.js` `Express` `REST API` `PostgreSQL` `Supabase`
 
 🔗 [Ver repositório](https://github.com/dejandrea/AppNinjaDistribuidora)
 
-<!-- 🌐 [Ver aplicação](https://app-ninja-distribuidora.vercel.app) -->
-
----
-
-### 💰 Personal Finance Manager
-
-Aplicação web para gerenciamento de finanças pessoais, desenvolvida com foco em organização financeira, controle de transações, categorias e acompanhamento de dados.
-
-**Tecnologias:**  
-`React` `JavaScript` `Vite` `Supabase` `PostgreSQL`
-
-🔗 [Ver repositório](https://github.com/dejandrea/personal-finance-manager)
+🚧 **Versão atual em desenvolvimento**
 
 ---
 
@@ -79,6 +75,26 @@ Aplicação web para gerenciamento de finanças pessoais, desenvolvida com foco 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
+## 🤖 Engenharia de IA Aplicada
+
+Além do desenvolvimento Full Stack, venho direcionando meus estudos para **Engenharia de Inteligência Artificial Aplicada**, com foco na integração segura e útil de modelos de IA a produtos de software.
+
+Atualmente estudo e pratico conceitos relacionados a:
+
+- Integração de LLMs através de APIs
+- Engenharia de prompts aplicada a sistemas
+- Respostas estruturadas em JSON
+- Integração de IA com back-end
+- Segurança de credenciais e secrets
+- Tratamento de falhas e fallback
+- Function Calling e ferramentas
+- RAG e bancos vetoriais
+- Agentes de IA
+- Observabilidade e avaliação de sistemas com IA
+
+A **Plataforma de Ensino** é meu primeiro projeto Full Stack utilizando IA integrada ao fluxo real da aplicação.
+
+---
 
 ## 🐍 Python
 
@@ -97,12 +113,13 @@ Estou reorganizando meus projetos Python para apresentar aqui os trabalhos mais 
 
 ## 🎯 Atualmente
 
-- 💻 Desenvolvendo e evoluindo aplicações Full Stack
-- 🎓 Desenvolvendo uma plataforma própria para gestão de aulas online
-- 💰 Desenvolvendo o Personal Finance Manager
-- 🐍 Aprofundando projetos com Python
-- 📚 Aprimorando conhecimentos em arquitetura, APIs, banco de dados e boas práticas de desenvolvimento
-- 🔎 Aberta a oportunidades como **Desenvolvedora de Software Júnior, Front-end/React, Full Stack Júnior ou Python Developer Júnior**
+- 💻 Desenvolvendo e evoluindo aplicações **Full Stack**
+- 🎓 Evoluindo a **Plataforma de Ensino**, atualmente com integração à OpenAI API
+- 📦 Desenvolvendo a nova arquitetura do **ZigGest**, sistema ERP criado para uma necessidade real
+- 🤖 Estudando **Engenharia de IA Aplicada**, LLMs, RAG, Function Calling e agentes
+- 🧪 Aprofundando conhecimentos em testes automatizados, arquitetura e boas práticas
+- 🐍 Evoluindo meus conhecimentos em Python para back-end e aplicações de IA
+- 🔎 Aberta a oportunidades como **Desenvolvedora Full Stack Júnior, Front-end/React, Back-end ou Python Developer Júnior**
 
 ---
 
